@@ -1,3 +1,4 @@
 XXXXXXX
 nennnnnn
 11111
+awk '/love/' > lovelist.html
